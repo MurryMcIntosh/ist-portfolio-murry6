@@ -4,7 +4,7 @@
 
 This is a repository to host different projects and exercises from my IST course.
 
-Here are the steps to using git to add new content.
+Here are the steps to using git to add new content. :rage:
 
 ```
 git add .
